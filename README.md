@@ -5,4 +5,4 @@ asi que cualquier uso no autorizado, distribución, modificación o mal uso de e
 
 El desarrollador no se hace responsable de las acciones llevadas a cabo con esta herramienta
 
-La contraseña cambia cada 3 dias para evitar el mal uso o el leak de la misma DM @uvka si la necesitas, sugerencias o bugs
+@uvka para cualquier sugerencia y/o bugs 
